@@ -7,7 +7,8 @@ The database is local so the memory use is limited, though access time is much f
 ## Requirements
 
 The `requests` library is great for any web crawling mechanisms.
-`pip install requests`
+
+To get started, run: `pip3 install requests`
 
 `threading` was used to create a timer for the threads.
 
