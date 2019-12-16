@@ -2,7 +2,7 @@
 
 The crawler just prints the sites visited and the crawl time.
 
-The database is local so the memory use is limited, though access time is much faster than using a cloud db.
+The database is in memory so it is limited in size. However, access time is much faster than using a cloud db.
 
 ## Requirements
 
